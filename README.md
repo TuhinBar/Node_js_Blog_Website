@@ -34,6 +34,8 @@
 
 - First you need to install [Node js](https://nodejs.org/en/download/)
 - Then to install dependencies run this command in your terminal
-- ```npm install express mongoose```
+- ```http
+  npm install express mongoose
+  ```
 
 - Leave a star or fork it use and contribute. Thank You 💖

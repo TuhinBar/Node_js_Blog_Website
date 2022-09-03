@@ -23,7 +23,7 @@
 
 ![image](https://user-images.githubusercontent.com/85868593/188263493-a3a630d2-e7d4-4cf1-a038-63adb441d5f0.png)
 
-- Also you can click `read more` on every post to visit separate route (`//localhost:3000/${ postId }`) for each blog.
+- Also you can click `read more` on every post to visit separate route (`//localhost:3000/posts/${ postId }`) for each blog.
 
 ![image](https://user-images.githubusercontent.com/85868593/188263538-06a68034-a74a-4bd9-8d64-cda8ba6539de.png)
 

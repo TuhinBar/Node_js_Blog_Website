@@ -5,7 +5,7 @@
 
 - This app comes with multiple routes such as `/ or home`, `/about`, `/contact` and `//localhost:3000/compose` which is a hidden route to post blogs
 
-- Previews
+## Previews
 
 - Home route `localhost:3000/`.
 

@@ -33,9 +33,10 @@
 - This website is made using `Node js`, `Express`, `Mongoose` and `MongoDB`
 
 - First you need to install [Node js](https://nodejs.org/en/download/)
+- Download the code (zip)
 - Then to install dependencies run this command in your terminal
 - ```
-    npm install express mongoose
+    npm install
   ```
 
 - Leave a star or fork it use and contribute. Thank You 💖
